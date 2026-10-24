@@ -1,4 +1,4 @@
-﻿# Edjouner Rojas
+# Edjouner Rojas
 
 **Full-stack developer** building production systems for U.S. businesses: CRMs, client portals, bots and automation.
 
@@ -8,27 +8,24 @@ Based in Caracas, Venezuela · Open to remote roles in Spanish · Building techn
 
 `TypeScript` · `React` · `Supabase` · `PostgreSQL` · `Python` · `Node.js` · `AWS` · `Vercel`
 
-## What I ship
+## Live demos
 
-- **Insurance / credit ops CRMs** — roles, RLS, lead pipelines, client portals
-- **Always-on bots** — TeamSpeak + computer vision for game ranks (456+ automated tests)
-- **Local AI tooling** — private LLM apps with Obsidian memory
+- **[TuSalud CRM Demo](https://abloodykpaw.github.io/tusalud-crm-demo/)** — insurance ops CRM (fictional data). Login `admin` / `Demo2026!`
+- **[Portfolio](https://abloodykpaw.github.io/portafolio/)** — case studies and CV
+- **[oxxus-demo](https://github.com/abloodykpaw/oxxus-demo)** — credit repair portal (code; needs its own Supabase to run)
 
 ## Highlight repos
 
-<!-- Actualiza los enlaces cuando existan los repos públicos -->
-- **[latinogaming-bot](https://github.com/abloodykpaw/latinogaming-bot)** — TeamSpeak bot, OCR/rank detection, Vitest suite
-- **[brainatlas](https://github.com/abloodykpaw/brainatlas)** — local AI assistant (Qwen + Obsidian)
-- **[portafolio](https://github.com/abloodykpaw/portafolio)** — case studies and CV
+- [tusalud-crm-demo](https://github.com/abloodykpaw/tusalud-crm-demo)
+- [oxxus-demo](https://github.com/abloodykpaw/oxxus-demo)
+- [portafolio](https://github.com/abloodykpaw/portafolio)
 
 ## Contact
 
 - Email: `edjounerrojas153a@gmail.com`
 - WhatsApp: `+58 412 637 2018`
 - Portfolio: https://abloodykpaw.github.io/portafolio/
-- LinkedIn: _(añadir URL)_
 
 ---
 
 *I use AI to move fast. I use judgment so it works in production.*
-
