@@ -1,4 +1,4 @@
-# Edjouner Rojas
+﻿# Edjouner Rojas
 
 **Full-stack developer** building production systems for U.S. businesses: CRMs, client portals, bots and automation.
 
@@ -25,9 +25,10 @@ Based in Caracas, Venezuela · Open to remote roles in Spanish · Building techn
 
 - Email: `edjounerrojas153a@gmail.com`
 - WhatsApp: `+58 412 637 2018`
-- Portfolio: _(añadir URL al publicar)_
+- Portfolio: https://abloodykpaw.github.io/portafolio/
 - LinkedIn: _(añadir URL)_
 
 ---
 
 *I use AI to move fast. I use judgment so it works in production.*
+
